@@ -6,7 +6,6 @@ Bonusutbetaling blir avkortet ved fravær utover 4 uker som ikke er ferie eller 
 
 Bredbånd dekkes med inntil 600kr per måned. Utlegg skal registreres per måned eller kvartal, og summen som skal refunderes er 600kr per måned, selv om faktura eventuelt er høyere. Da sparer selskapet tid på å gå gjennom når hver ansatt når grensen på 600kr * 12.
 
-
 ## Timeføring
 
 Timeføring skal være ferdig innen mandag formiddag påfølgende uke.
@@ -25,7 +24,7 @@ Dvs. at den ansatte fører tiden som TRETOEN tid i timeføringen.
 
 ## Ferie/fridager
 
-
+I tillegg til de vanlige 5 uker med ferie har vi fri julaften og nyttårsaften.
 
 ## Pensjonssparing
 
