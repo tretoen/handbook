@@ -11,18 +11,27 @@ Hvis du har innspill til endringer til denne håndboken så kan du lage en pullr
 -Modig
 
 ## Betingelser
-todo(Ole Hjalmar)
 
+Høy inntekt er ikke en forutsetning for høy prestasjonsevne. Men god nok lønn gjør folk fornøyd og gir frihet til å leve et godt liv. Vi mener at innlandet har en vei å gå når det gjelder lønnsnivå innen IT og det ønsker vi å være med på å gjøre noe med.
 
 ### Lønn
 
+Hva folk tjener i 321 er ingen hemmelighet. Vi har gjort det enkelt og baserer oss på Teknas lønnstatistikk. For å være mer detaljert så baserer vi oss på en glattet graf over en gjennomsnittslønnsstatisikk fra Tekna. Dermed er hva du tjener en funksjon av hvilken utdannelse du har og hvor lenge du har jobbet i bransjen. 
 
+### Ansattaksjer
 
+Vi har gründerakser eller såkalte A-aksjer og fordelingen pr nå er slik:
 
-### Bonus
+Lars Ingar 16,82%
+Kim 16,82%
+Anders 16,82%
+Ole Hjalmar 11%
+Heidi 13,82%
+Mari 10%
+Morten 10%
+Ola 4,72%
 
-Bonusutbetaling blir avkortet ved fravær utover 4 uker som ikke er ferie eller avspasering.
-
+Men vår intensjon er at alle ansatte som ønsker det skal kunne kjøpe aksjer i 321. Vi jobber derfor nå med å opprette en egen aksjeklasse, såkalt B-aksje, som vi oppretter ved emisjon. Vårt ansattaksjeprogram vil bli klart i løpet første kvartal i 2021. 
 
 
 ### Forsikringer
