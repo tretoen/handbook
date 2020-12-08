@@ -106,22 +106,30 @@ Hensikten med dagen er at vi møtes, blir godt kjent med hverandre og at vi lær
 Vi er alle forskjellige og har forskjellige preferanser og måter å lære på. Noen foretrekker å lese en bok og teste ut ting selv, andre ønsker å følge et kurs eller reise på konferanser. Vi har tillit til at du som ansatt tar avgjørelser som er til det beste for selskapet og derfor har vi ikke et bestemt budsjett som styrer hvor mye eller hva du kan dra på. Er det akkurat den konferansen i London som du mener er mest riktig for deg og 321 så drar du dit.
 
 ## Rutiner
-todo(Morten, Kim)
+Vi i 321 er ikke veldig formelle, og vil hele tiden jobbe for å ha så få systemer og rutiner som mulig.  
+
+### Utstyr
+Vi har stor tro på hver ansatt sin vurderingsevne. Om du mener det er til det beste for 321 med et headset, ny pc, eller en lisens, så stoler vi på at du tar er riktig valg. Det er ingen beløpsgrenser for kjøp av pc/mobil, men vi forventer også her at du vurderer hva som er det beste for selskapet. Sjekk gjerne hva de andre bruker om du er i tvil. Du står naturligvis fritt til å velge windows, linux eller OS X.
+
+Alle kjøp registreres av den anatte i felles oversikt som alle har tilgang til. Utstyr og lisenser betales av 321.
+
+Eksempel på gode vurderinger:
+- Mari sin helt nydelige 49" skjerm.
+- Morten sin Macbook Pro 16".
+- Kim sin Lenovo
+
 ### Internsystemer 
 
 #### Slack
+Vi bruker Slack til kommunikasjon internt. Her er alle kanaler åpne, utenom eventuelle temaer som er taushetsbelagt.
 
-#### CVpartner
+#### CV partner
+Alle ansatte har sine CVer i CV Partner og har ansvar for at CVen er oppdatert.
 
 #### Tripletex
+Timeføring gjøres i Tripletex. Timeføring skal gjøres ukentlig, og være ferdig senest påfølgende mandag formiddag. Her finner hver ansatt oversikt over mertid, ferie og kan registerer eventuelle utlegg.
 
-### Timeføring
+Normal arbeidstid er 7,5 time per dag + 0,5 time lunch. Det er viktig for oss at hver ansatt ha en god balanse jobb og privat. For noen betyr dette å ha og til jobbe inn mertid som kan tas ut igjen som fri senere. Alle i 321 står fritt til dette så lenge arbeidstid er innenfor arbeidsmiljøloven sine krav og pluss- eller minustid ikke overstiger 40 timer.
 
-Timeføring skal være ferdig innen mandag formiddag påfølgende uke.
-Ufakturerbar tid på kunde skal føres på kunde, men benytt felt for “Timer ufakturerbart”.
-Tittel er felt for beskrivelse som vises til kunde.
-Intern beskrivelse er intern info som ikke vises kunde.
-
-- Mertid - hvor mye + og - ... kan man ta ut i lønn eller fri...
-- Overtid - etter avtale
+For å sikre en god balanse mellom jobb og privat ønsker vi ikke å jobbe overtid. Men unntaksvis kan det være behov hos kunde som gjør dette nødvendig. Overtid skal alltid avtales i forkant, og gir et overtidstillegg på 40%.
 
