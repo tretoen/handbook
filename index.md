@@ -87,24 +87,32 @@ Konferanser, kurs og krig og fred og sånn...
 
 
 ## Rutiner
-todo(Morten, Kim)
+Vi i 321 er ikke veldig formelle, og vil hele tiden jobbe for å ha så få systemer og rutiner som mulig.  
+
+### Utstyr
+Vi har stor tro på hver ansatt sin vurderingsevne. Om du mener det er til det beste for 321 med et headset, ny pc, eller en lisens, så stoler vi på at du tar er riktig valg. Det er ingen beløpsgrenser for kjøp av pc/mobil, men vi forventer også her at du vurderer hva som er det beste for selskapet. Sjekk gjerne hva de andre bruker om du er i tvil. Du står naturligvis fritt til å velge windows eller mac.
+
+Alle kjøp registreres av den anatte i felles oversikt som alle har tilgang til. Utstyr og lisenser betales av 321.
+
+Eksempel på gode vurdering:
+- Mari sin helt nydelige 49" skjerm.
+- Morten sin Macbook Pro 16".
+- Kim sin Lenovo
+
 ### Internsystemer 
 
 #### Slack
+Vi bruker Slack til kommunikasjon internt. Her er alle kanaler åpne, utenom eventuelle temaer som er taushetsbelagt.
 
 #### CVpartner
+Alle ansatte har sine CV´r i CV Partner.
 
 #### Tripletex
+Timeføring gjøres i Tripletex. Timeføring skal gjøres ukentlig, og være ferdig senest påfølgende mandag formiddag. Her finner hver ansatt oversikt over mertid, ferie og kan registerer eventuelle utlegg.
 
-### Timeføring
+Normal arbeidstid er 7,5 time per dag + 0,5 time lunch. Det er viktig for oss at hver ansatt ha en god balanse jobb og privat. For noen betyr dette å ha og til jobbe inn mertid som kan tas ut igjen som fri senere. Alle i 321 står fritt til dette så lenge arbeidstid er innenfor arbeidsmiljøloven sin krav og pluss eller minustid ikke overstiger 40 timer.
 
-Timeføring skal være ferdig innen mandag formiddag påfølgende uke.
-Ufakturerbar tid på kunde skal føres på kunde, men benytt felt for “Timer ufakturerbart”.
-Tittel er felt for beskrivelse som vises til kunde.
-Intern beskrivelse er intern info som ikke vises kunde.
-
-- Mertid - hvor mye + og - ... kan man ta ut i lønn eller fri...
-- Overtid - etter avtale
+For å sikre en god balanse mellom jobb og privat ønsker vi ikke å jobbe overtid. Men unntaksvis kan det være behov hos kunde som gjør dette nødvendig. Overtid skal alltid avtales i forkant, og gir et overtidstillegg på 40%.
 
 ### Onboarding
 
