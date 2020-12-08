@@ -79,12 +79,17 @@ I tillegg til de vanlige 5 uker med ferie har vi fri julaften og nyttårsaften.
 Selskapet har pensjonssparing hos Gjensidige. Det er åpnet opp for at de ansatte kan samle sine (tidligere) pensjonsavtaler hos Gjensidige. Hver ansatt må kontakte Gjensidige om dette.
 
 ## Fag
-todo(Mari)
+
+Kunnskap er det produktet vi selger og derfor er det svært viktig at alle som jobber hos oss er oppdatert. Som selskap trenger vi å vite hva som finnes der ute; hva er trender, hva trenger kundene våre og hva er vikig for oss. Det er viktig at du har en egen motivasjon til å lære deg nye ting selv og setter av tid til det, men vi legger også tilrette for at man kan få prioritert dette i en hektisk hverdag.
+
 ### 321-dag
+
+En gang i måneden møtes hele gjengen for faglig samvær. Vi bruker hele dagen sammen og avslutter ofte med å gå ut å spise på en av Hamars fantastiske spisesteder.
+Hensikten med dagen er at vi møtes, blir godt kjent med hverandre og at vi lærer oss nye ting. En typisk 321-dag er delt i to hvor vi i første halvdel deler med hverandre i form av foredrag og andre halvdel er egenstudier.
+
 ### Generell kompetanseutvikling
 
-Konferanser, kurs og krig og fred og sånn...
-
+Vi er alle forskjellige og har forskjellige preferanser og måter å lære på. Noen foretrekker å lese en bok og teste ut ting selv, andre ønsker å følge et kurs eller reise på konferanser. Vi har tillit til at du som ansatt tar avgjørelser som er til det beste for selskapet og derfor har vi ikke et bestemt budsjett som styrer hvor mye eller hva du kan dra på. Er det akkurat den konferansen i London som du mener er mest riktig for deg og 321 så drar du dit.
 
 ## Rutiner
 todo(Morten, Kim)
