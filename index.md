@@ -17,15 +17,15 @@ Vi blir stolte når vi tiltrekker oss gode folk, når vi lærer noe nytt og spen
 
 ## Betingelser
 
-Høy inntekt er ikke en forutsetning for høy prestasjonsevne. Men god nok lønn gjør folk fornøyd og gir frihet til å leve et godt liv. Vi mener at innlandet har en vei å gå når det gjelder lønnsnivå innen IT og det ønsker vi å være med på å gjøre noe med.
+Høy inntekt er ikke en forutsetning for høy prestasjonsevne. Men god nok lønn gjør folk fornøyd og gir frihet til å leve et godt liv. Vi mener at Innlandet har en vei å gå når det gjelder lønnsnivå innen IT og det ønsker vi å være med på å gjøre noe med.
 
 ### Lønn
 
-Hva folk tjener i 321 er ingen hemmelighet. Vi har gjort det enkelt og baserer oss på Teknas lønnstatistikk. For å være mer detaljert så baserer vi oss på en glattet graf over en gjennomsnittslønnsstatisikk fra Tekna. Dermed er hva du tjener en funksjon av hvilken utdannelse du har og hvor lenge du har jobbet i bransjen. 
+Hva folk tjener i 321 er ingen hemmelighet. Vi har gjort det enkelt og baserer oss på Teknas lønnstatistikk. For å være mer detaljert så baserer vi oss på en glattet graf over en gjennomsnittslønnsstatisikk fra Tekna. Dermed er hva du tjener en funksjon av hvilken utdannelse du har og hvor lenge du har jobbet i bransjen.
 
 ### Ansattaksjer
 
-Vi har gründerakser eller såkalte A-aksjer og fordelingen pr nå er slik:
+Vi har gründeraksjer eller såkalte A-aksjer og fordelingen per nå er slik:
 
 Lars Ingar 16,82%
 Kim 16,82%
@@ -36,7 +36,7 @@ Mari 10%
 Morten 10%
 Ola 4,72%
 
-Men vår intensjon er at alle ansatte som ønsker det skal kunne kjøpe aksjer i 321. Vi jobber derfor nå med å opprette en egen aksjeklasse, såkalt B-aksje, som vi oppretter ved emisjon. Vårt ansattaksjeprogram vil bli klart i løpet første kvartal i 2021. 
+Men vår intensjon er at alle ansatte som ønsker det skal kunne kjøpe aksjer i 321. Vi jobber derfor nå med å opprette en egen aksjeklasse, såkalt B-aksje, som vi oppretter ved emisjon. Vårt ansattaksjeprogram vil bli klart i løpet første kvartal i 2021.
 
 
 ### Forsikringer
@@ -63,7 +63,7 @@ Behandlingsforsikring som dekker følgende (med forbehold om endringer hos Gjens
 
 #### Sykelønn
 
-Vi har forsikret alle våre arbeidstagere med sjukeforsikring. Denne sikrer at vi ved eventuell sjukemelding utover 14 dager får utbetalt differansen mellom hva NAV utbetaler og hva vi faktisk har i årslønn. NAV utbetaler 6G (599.000). Alt over dette dekkes ikke av NAV. Frem til nå ha 321 tatt kostnaden med differansen. Ettersom vi nå har forsikring, vil ikke 321 lenger ta kostnaden med utbetaling av sjukelønn som ikke dekkes av NAV eller Gjensidige. Vi kan forskuttere dette om dette er ok i følge vilkår hos Gjensidige.
+Vi har forsikret alle våre arbeidstagere med sykeforsikring. Denne sikrer at vi ved eventuell sykemelding utover 14 dager får utbetalt differansen mellom hva NAV utbetaler og hva vi faktisk har i årslønn. NAV utbetaler 6G (599.000). Alt over dette dekkes ikke av NAV. Frem til nå ha 321 tatt kostnaden med differansen. Ettersom vi nå har forsikring, vil ikke 321 lenger ta kostnaden med utbetaling av sykelønn som ikke dekkes av NAV eller Gjensidige. Vi kan forskuttere dette om dette er ok i følge vilkår hos Gjensidige.
 
 Men dette betyr noe viktig: alle ansatte må fylle ut Helseerklæring innen fristen for å få denne forsikringen. Dette er hver ansatt sin plikt å følge opp, da det ikke enkelt kommer frem på faktura fra Gjensidige. Om du ikke har gyldig helseerklæring vil ikke forsikringen gjelde, da vil 321 verken forskuttere eller dekke differansen mellom NAV sin utbetaling og faktisk årslønn.
 
@@ -106,10 +106,10 @@ Hensikten med dagen er at vi møtes, blir godt kjent med hverandre og at vi lær
 Vi er alle forskjellige og har forskjellige preferanser og måter å lære på. Noen foretrekker å lese en bok og teste ut ting selv, andre ønsker å følge et kurs eller reise på konferanser. Vi har tillit til at du som ansatt tar avgjørelser som er til det beste for selskapet og derfor har vi ikke et bestemt budsjett som styrer hvor mye eller hva du kan dra på. Er det akkurat den konferansen i London som du mener er mest riktig for deg og 321 så drar du dit.
 
 ## Rutiner
-Vi i 321 er ikke veldig formelle, og vil hele tiden jobbe for å ha så få systemer og rutiner som mulig.  
+Vi i 321 er ikke veldig formelle, og vil hele tiden jobbe for å ha så få systemer og rutiner som mulig.
 
 ### Utstyr
-Vi har stor tro på hver ansatt sin vurderingsevne. Om du mener det er til det beste for 321 med et headset, ny pc, eller en lisens, så stoler vi på at du tar er riktig valg. Det er ingen beløpsgrenser for kjøp av pc/mobil, men vi forventer også her at du vurderer hva som er det beste for selskapet. Sjekk gjerne hva de andre bruker om du er i tvil. Du står naturligvis fritt til å velge windows, linux eller OS X.
+Vi har stor tro på hver ansatt sin vurderingsevne. Om du mener det er til det beste for 321 med et headset, ny pc, eller en lisens, så stoler vi på at du tar er riktig valg. Det er ingen beløpsgrenser for kjøp av pc/mobil, men vi forventer også her at du vurderer hva som er det beste for selskapet. Sjekk gjerne hva de andre bruker om du er i tvil. Du står naturligvis fritt til å velge Windows, Linux eller OS X.
 
 Alle kjøp registreres av den anatte i felles oversikt som alle har tilgang til. Utstyr og lisenser betales av 321.
 
@@ -118,18 +118,18 @@ Eksempel på gode vurderinger:
 - Morten sin Macbook Pro 16".
 - Kim sin Lenovo
 
-### Internsystemer 
+### Internsystemer
 
 #### Slack
 Vi bruker Slack til kommunikasjon internt. Her er alle kanaler åpne, utenom eventuelle temaer som er taushetsbelagt.
 
-#### CV partner
+#### CV Partner
 Alle ansatte har sine CVer i CV Partner og har ansvar for at CVen er oppdatert.
 
 #### Tripletex
 Timeføring gjøres i Tripletex. Timeføring skal gjøres ukentlig, og være ferdig senest påfølgende mandag formiddag. Her finner hver ansatt oversikt over mertid, ferie og kan registerer eventuelle utlegg.
 
-Normal arbeidstid er 7,5 time per dag + 0,5 time lunch. Det er viktig for oss at hver ansatt ha en god balanse jobb og privat. For noen betyr dette å ha og til jobbe inn mertid som kan tas ut igjen som fri senere. Alle i 321 står fritt til dette så lenge arbeidstid er innenfor arbeidsmiljøloven sine krav og pluss- eller minustid ikke overstiger 40 timer.
+Normal arbeidstid er 7,5 time per dag + 0,5 time lunsj. Det er viktig for oss at hver ansatt ha en god balanse jobb og privat. For noen betyr dette å ha mulighet til å jobbe inn mertid som kan tas ut igjen som fri senere. Alle i 321 står fritt til dette så lenge arbeidstid er innenfor arbeidsmiljøloven sine krav og pluss- eller minustid ikke overstiger 40 timer.
 
 For å sikre en god balanse mellom jobb og privat ønsker vi ikke å jobbe overtid. Men unntaksvis kan det være behov hos kunde som gjør dette nødvendig. Overtid skal alltid avtales i forkant, og gir et overtidstillegg på 40%.
 
