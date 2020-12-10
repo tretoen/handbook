@@ -17,11 +17,13 @@ Vi blir stolte når vi tiltrekker oss gode folk, når vi lærer noe nytt og spen
 
 ## Betingelser
 
-Høy inntekt er ikke en forutsetning for høy prestasjonsevne. Men god nok lønn gjør folk fornøyd og gir frihet til å leve et godt liv. Vi mener at Innlandet har en vei å gå når det gjelder lønnsnivå innen IT og det ønsker vi å være med på å gjøre noe med.
+Høy inntekt er ikke en forutsetning for høy prestasjonsevne. 
+Men vissheten om at en får en gode og rettferdige betingelser, bidrar til positiv energi som kommer både firmaet og den ansatte til gode.
 
 ### Lønn
 
-Hva folk tjener i 321 er ingen hemmelighet. Vi har gjort det enkelt og baserer oss på Teknas lønnstatistikk. Mer presist så baserer vi oss på statistikken for IKT-gjennomsnitt i privat sektor. Dermed er hva du tjener en funksjon av hvilken utdannelse du har og hvor lenge du har jobbet i bransjen.
+Hva folk tjener i 321 er ingen hemmelighet. Vi har gjort det enkelt og baserer oss på Teknas lønnstatistikk. 
+Mer presist så baserer vi oss på statistikken for IKT-gjennomsnitt i privat sektor. Dermed er hva du tjener en funksjon av hvilken utdannelse du har og hvor lenge du har jobbet i bransjen.
 
 ### Ansattaksjer
 
@@ -36,7 +38,8 @@ Vi har gründeraksjer eller såkalte A-aksjer og fordelingen per nå er slik:
 - Morten 10%
 - Ola 4,72%
 
-Men vår intensjon er at alle ansatte som ønsker det skal kunne kjøpe aksjer i 321. Vi jobber derfor nå med å opprette en egen aksjeklasse, såkalt B-aksje, som vi oppretter ved emisjon. Vårt ansattaksjeprogram vil bli klart i løpet første kvartal i 2021.
+Men vår intensjon er at alle ansatte som ønsker det skal kunne kjøpe aksjer i 321. På den måten kan alle få glede av gode resultater og selskapets verdiøkning. 
+Vi jobber derfor nå med å opprette en egen aksjeklasse, såkalt B-aksje, som vi oppretter ved emisjon. Vårt ansattaksjeprogram vil bli klart i løpet første kvartal i 2021.
 
 
 ### Forsikringer
@@ -131,8 +134,11 @@ Alle ansatte har sine CVer i CV Partner og har ansvar for at CVen er oppdatert.
 
 #### Tripletex
 Timeføring gjøres i Tripletex. Timeføring skal gjøres ukentlig, og være ferdig senest påfølgende mandag formiddag. Her finner hver ansatt oversikt over mertid, ferie og kan registerer eventuelle utlegg.
+Det føres 37,5 timer på en normal arbeidsuke, det utgjør 7,5 timer per dag fraregnet lunch. 
 
-Normal arbeidstid er 7,5 time per dag + 0,5 time lunsj. Det er viktig for oss at hver ansatt ha en god balanse jobb og privat. For noen betyr dette å ha mulighet til å jobbe inn mertid som kan tas ut igjen som fri senere. Alle i 321 står fritt til dette så lenge arbeidstid er innenfor arbeidsmiljøloven sine krav og pluss- eller minustid ikke overstiger 40 timer.
+Det er viktig for oss at alle ansatte har en god balanse mellom jobb og fritid. For noen betyr dette muligheten til å jobbe seg opp plusstid som kan avspaseres senere.
+Alle i 321 står fritt til dette så lenge arbeidstid er innenfor arbeidsmiljøloven sine krav og pluss- eller minustid ikke overstiger 40 timer.
 
-For å sikre god balanse mellom jobb og fritid ønsker vi ikke å jobbe overtid, men unntaksvis kan det være kundebehov som krever det. Overtid skal alltid avtales i forkant, og gir et overtidstillegg på 40%.
+For å sikre god balanse mellom jobb og fritid ønsker vi ikke å jobbe overtid, men unntaksvis kan det være kundebehov som krever det. 
+Overtid skal alltid avtales i forkant, og gir et overtidstillegg på 40%.
 
