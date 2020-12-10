@@ -41,9 +41,6 @@ Men vår intensjon er at alle ansatte som ønsker det skal kunne kjøpe aksjer i
 
 ### Forsikringer
 
-#### Eiendeler
-
-Forsikring er 321 sine eiendeler som pc, kontorutstyr, etc. inkl. tyverisikring. Per 28. April 2020 er dekningssummen 155.551kr.
 
 #### Behandlingsforsikring
 
