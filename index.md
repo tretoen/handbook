@@ -60,9 +60,11 @@ Behandlingsforsikring som dekker følgende (med forbehold om endringer hos Gjens
 
 #### Sykelønn
 
-Vi har forsikret alle våre arbeidstagere med sykeforsikring. Denne sikrer at vi ved eventuell sykemelding utover 14 dager får utbetalt differansen mellom hva NAV utbetaler og hva vi faktisk har i årslønn. NAV utbetaler 6G (599.000). Alt over dette dekkes ikke av NAV. Frem til nå ha 321 tatt kostnaden med differansen. Ettersom vi nå har forsikring, vil ikke 321 lenger ta kostnaden med utbetaling av sykelønn som ikke dekkes av NAV eller Gjensidige. Vi kan forskuttere dette om dette er ok i følge vilkår hos Gjensidige.
+Vi har forsikret alle våre arbeidstagere med sykeforsikring. Denne sikrer at vi ved eventuell sykemelding utover 14 dager får utbetalt differansen mellom hva NAV utbetaler og hva vi faktisk har i årslønn. NAV utbetaler 6G (599.000).
 
-Men dette betyr noe viktig: alle ansatte må fylle ut Helseerklæring innen fristen for å få denne forsikringen. Dette er hver ansatt sin plikt å følge opp, da det ikke enkelt kommer frem på faktura fra Gjensidige. Om du ikke har gyldig helseerklæring vil ikke forsikringen gjelde, da vil 321 verken forskuttere eller dekke differansen mellom NAV sin utbetaling og faktisk årslønn.
+Men dette betyr noe viktig: alle ansatte må fylle ut Helseerklæring innen fristen for å få denne forsikringen. Dette følges opp av 321 som en del av onboarding i tillegg til den ansatte selv.
+
+Ved eventuell sykdom utbetaler 321 lønn og får refusjon fra NAV og eventuelt forsikring.
 
 #### Yrkesskade
 
