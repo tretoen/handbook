@@ -9,11 +9,14 @@ Hvis du har innspill til endringer til denne håndboken så kan du lage en pullr
 
 Vi blir stolte når vi tiltrekker oss gode folk, når vi lærer noe nytt og spennende av hverandre eller forbedrer bransjen vår. Vi blir dessuten minst like stolte sammen med kundene våre når vi i fellesskap lanserer noe nytt eller oppnår kundens mål.
 
--Åpen: Vi er et åpent og transparent selskap. Hos oss er det ingen lukkede dører. Det er full åpenhet på innkjøp, økonomi, lønn, forventet utvikling på lønnen til neste år, osv. På denne måten rydder vi vekk alle slike spørsmål, og kan fokusere på hvordan vi selv utvikler hver enkelt av oss, kundene og 321.
+### Åpen
+Vi er et åpent og transparent selskap. Hos oss er det ingen lukkede dører. Det er full åpenhet på innkjøp, økonomi, lønn, forventet utvikling på lønnen til neste år, osv. På denne måten rydder vi vekk alle slike spørsmål, og kan fokusere på hvordan vi selv utvikler hver enkelt av oss, kundene og 321.
 
--Ærlig: De fleste selskaper og ansatte er ærlige. For oss i 321 mener vi dette er en viktig del av å være konsulent. En konsulent skal utfordre, og stille ærlige spørsmål. Vår erfaring er at ærlige (men hyggelig) tilbakemeldinger utvikler oss videre, men også at kundene setter pris på dette.
+### Ærlig
+De fleste selskaper og ansatte er ærlige. For oss i 321 mener vi dette er en viktig del av å være konsulent. En konsulent skal utfordre, og stille ærlige spørsmål. Vår erfaring er at ærlige (men hyggelig) tilbakemeldinger utvikler oss videre, men også at kundene setter pris på dette.
 
--Modig: Ærlighet krever mot. Når 321 er ærlige om oppdrag vi ikke er den rette til, risikerer vi å miste kunden. Men vi risikerer mer ved å late som vi er noe vi ikke er. Når vi i 321 setter oss høye mål er vi litt modige, men når vi gjør tiltak for å oppnå disse målene krever det ofte at vi er veldig modige. Et eksempel på dette er denne åpne personalhåndboka. Vi kan ikke påstå vi er åpne og transparente uten å dele denne informasjonen. Enkelt å vedta, krever litt mer mot å gjennomføre.
+### Modig
+Ærlighet krever mot. Når 321 er ærlige om oppdrag vi ikke er den rette til, risikerer vi å miste kunden. Men vi risikerer mer ved å late som vi er noe vi ikke er. Når vi i 321 setter oss høye mål er vi litt modige, men når vi gjør tiltak for å oppnå disse målene krever det ofte at vi er veldig modige. Et eksempel på dette er denne åpne personalhåndboka. Vi kan ikke påstå vi er åpne og transparente uten å dele denne informasjonen. Enkelt å vedta, krever litt mer mot å gjennomføre.
 
 ## Betingelser
 
