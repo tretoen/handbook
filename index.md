@@ -1,7 +1,7 @@
 # Personalhåndbok for 321
 Denne personalhåndboken prøver å besvare spørsmål en kan ha som ansatt i 321. Hvis noe er uklart eller mangelfullt spør gjerne på Slack.
 
-Hvis du har innspill til endringer til denne håndboken så kan du lage en pullrequest [her]().
+Hvis du har innspill til endringer til denne håndboken så kan du lage en pullrequest [her](https://github.com/tretoen/handbook).
 
 
 ## Verdier
