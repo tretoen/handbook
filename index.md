@@ -79,9 +79,11 @@ Bredbånd dekkes med inntil 600kr per måned. Utlegg skal registreres per måned
 
 ### Betalt fravær
 
-Tannlege, fysio etc. Går under denne kategori.
-TRETOEN dekker tiden det tar å være hos tannlege/fysio etc.
-Dvs. at den ansatte fører tiden som TRETOEN tid i timeføringen.
+Den tiden vi er på jobb brukes i hovedsak hos kunde eller på kompetanseheving. Men av og til har alle behov for tannlegetime eller lignende. For å slippe å jobbe inn slike timer er det lov å føre ufakturerbar tid på tiden du bruker til følgende:
+
+- Tannlege
+- Fysioterapi
+- Legetime
 
 ### Ferie/fridager
 
