@@ -5,7 +5,7 @@ Hvis du har innspill til endringer til denne håndboken så kan du lage en pullr
 
 
 ## Verdier
-"Vi knytter modige personer sammen og skaper stole øyeblikk". Hva mener vi egentlig med det? Vi mener de som startet 321 var modige som så muligheten, tok sats og hoppet. Like modige har Mari, Ole Fredrik, Ole Hjalmar og Morten vært. Alle snakker varmt om hvor fint de hadde det der de kom fra, men allikevel var de modige og kom til 321 for å bygge et nytt selskap med base i Innlandet.
+"Vi knytter modige personer sammen og skaper stole øyeblikk". Hva mener vi egentlig med det? Vi mener de som startet 321 var modige som så muligheten, tok sats og hoppet. Like modige har Mari, Ole Fredrik, Ole Hjalmar og Morten vært. Alle snakker varmt om hvor fint de hadde det der de kom fra, men allikevel var de modige og kom til 321 for å bygge et nytt selskap med base på Hamar.
 
 Vi blir stolte når vi tiltrekker oss gode folk, når vi lærer noe nytt og spennende av hverandre eller endrer bransjen i Innlandet. Vi blir dessuten minst like stolte sammen med kundene våre når vi i fellesskap lanserer noe nytt eller oppnår kundens mål.
 
