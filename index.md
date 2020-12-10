@@ -91,7 +91,9 @@ I tillegg til de vanlige 5 uker med ferie har vi fri julaften og nyttårsaften.
 
 ### Pensjonssparing
 
-Selskapet har pensjonssparing hos Gjensidige. Det er åpnet opp for at de ansatte kan samle sine (tidligere) pensjonsavtaler hos Gjensidige. Hver ansatt må kontakte Gjensidige om dette.
+Selskapet har pensjonssparing hos Gjensidige for alle ansatte. Vi innbetaler 5% fra første krone og opp til 12G. Eksempelvis med en årslønn på kr700.000 blir din årlige pensjon på kr 35.000.
+
+Det er åpnet opp for at de ansatte kan samle sine (tidligere) pensjonsavtaler hos Gjensidige. Hver ansatt må kontakte Gjensidige om dette.
 
 ## Fag
 
