@@ -134,5 +134,5 @@ Timeføring gjøres i Tripletex. Timeføring skal gjøres ukentlig, og være fer
 
 Normal arbeidstid er 7,5 time per dag + 0,5 time lunsj. Det er viktig for oss at hver ansatt ha en god balanse jobb og privat. For noen betyr dette å ha mulighet til å jobbe inn mertid som kan tas ut igjen som fri senere. Alle i 321 står fritt til dette så lenge arbeidstid er innenfor arbeidsmiljøloven sine krav og pluss- eller minustid ikke overstiger 40 timer.
 
-For å sikre en god balanse mellom jobb og privat ønsker vi ikke å jobbe overtid. Men unntaksvis kan det være behov hos kunde som gjør dette nødvendig. Overtid skal alltid avtales i forkant, og gir et overtidstillegg på 40%.
+For å sikre god balanse mellom jobb og fritid ønsker vi ikke å jobbe overtid, men unntaksvis kan det være kundebehov som krever det. Overtid skal alltid avtales i forkant, og gir et overtidstillegg på 40%.
 
