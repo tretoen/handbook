@@ -21,7 +21,7 @@ Høy inntekt er ikke en forutsetning for høy prestasjonsevne. Men god nok lønn
 
 ### Lønn
 
-Hva folk tjener i 321 er ingen hemmelighet. Vi har gjort det enkelt og baserer oss på Teknas lønnstatistikk. For å være mer detaljert så baserer vi oss på en glattet graf over en gjennomsnittslønnsstatisikk fra Tekna. Dermed er hva du tjener en funksjon av hvilken utdannelse du har og hvor lenge du har jobbet i bransjen.
+Hva folk tjener i 321 er ingen hemmelighet. Vi har gjort det enkelt og baserer oss på Teknas lønnstatistikk. Mer presist så baserer vi oss på statistikken for IKT-gjennomsnitt i privat sektor. Dermed er hva du tjener en funksjon av hvilken utdannelse du har og hvor lenge du har jobbet i bransjen.
 
 ### Ansattaksjer
 
