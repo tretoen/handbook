@@ -101,6 +101,10 @@ Selskapet har pensjonssparing hos Gjensidige for alle ansatte. Vi innbetaler 5% 
 
 Det er åpnet opp for at de ansatte kan samle sine (tidligere) pensjonsavtaler hos Gjensidige. Hver ansatt må kontakte Gjensidige om dette.
 
+### Foreldrepermisjon
+
+Det å bli foreder er en fantastisk opplevelse og vi unner alle å ta en velfortjent foreldrepermisjon. Vi betaler full lønn i foreldrepermisjon og tiden du er i permisjon vil ikke gå utover din ansiennitet i selskapet.
+
 ## Fag
 
 Kunnskap er det produktet vi selger og derfor er det svært viktig at alle som jobber hos oss er oppdatert. Som selskap trenger vi å vite hva som finnes der ute; hva er trender, hva trenger kundene våre og hva er vikig for oss. Det er viktig at du har en egen motivasjon til å lære deg nye ting selv og setter av tid til det, men vi legger også tilrette for at man kan få prioritert dette i en hektisk hverdag.
