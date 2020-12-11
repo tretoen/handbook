@@ -103,7 +103,7 @@ Det er åpnet opp for at de ansatte kan samle sine (tidligere) pensjonsavtaler h
 
 ### Foreldrepermisjon
 
-Det å bli foreder er en fantastisk opplevelse og vi unner alle å ta en velfortjent foreldrepermisjon. Vi betaler full lønn i foreldrepermisjon og tiden du er i permisjon vil ikke gå utover din ansiennitet i selskapet.
+Det å bli forelder er en fantastisk opplevelse og vi unner alle å ta en velfortjent foreldrepermisjon. Vi betaler full lønn i foreldrepermisjon og tiden du er i permisjon vil ikke gå utover din ansiennitet i selskapet.
 
 ## Fag
 
