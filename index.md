@@ -23,8 +23,13 @@ Men vissheten om at en får en gode og rettferdige betingelser, bidrar til posit
 ### Lønn
 
 Hva folk tjener i 321 er ingen hemmelighet. Vi har gjort det enkelt og baserer oss på Teknas lønnstatistikk. 
-Mer presist så baserer vi oss på statistikken for IKT-gjennomsnitt i privat sektor. Dermed er hva du tjener en funksjon av hvilken utdannelse du har og hvor lenge du har jobbet i bransjen.
+Mer presist så baserer vi oss på statistikken for IKT-gjennomsnitt i privat sektor. 
+Dermed er hva du tjener en funksjon av hvilken utdannelse du har og hvor lenge du har jobbet i bransjen.
 
+
+Teknas årlige statistikk oppdateres i desember og lønnsjustering i 321 utføres da påfølgende januar måned.
+
+#### Gjeldende lønnsgraf 321
 ![Lonnsgraf](images/lonn.png)
 Eksamensår i grafen er for en mastergrad, ved bachelor trekkes det fra et år.
 
