@@ -33,8 +33,10 @@ Dermed er hva du tjener en funksjon av hvilken utdannelse du har og hvor lenge d
 Teknas årlige statistikk oppdateres i desember og lønnsjustering i 321 utføres da påfølgende januar måned.
 
 #### Gjeldende lønnsgraf 321
-![Lonnsgraf](images/lonn.png)
-Eksamensår i grafen er for en mastergrad, ved bachelor trekkes det fra et år.
+![Lonnsgraf](images/lonn-2020.png)
+Eksamensår i grafen er for en mastergrad, for en bachelor legges det til et år. 
+Så hvis du var ferdig med en mastergrad i 2015 og har jobbet i bransjen siden det, vil din lønn bli 750 00,- 
+Tilsvarende for en bachelor vil være 720 000,- (Eksamensår justert til 2016)
 
 ### Ansattaksjer
 
