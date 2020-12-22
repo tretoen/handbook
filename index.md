@@ -103,7 +103,7 @@ Det er åpnet opp for at de ansatte kan samle sine (tidligere) pensjonsavtaler h
 
 ### Foreldrepermisjon
 
-Det å bli forelder er en fantastisk opplevelse og vi unner alle å ta en velfortjent foreldrepermisjon. Vi betaler full lønn i foreldrepermisjon og tiden du er i permisjon vil ikke gå utover din ansiennitet i selskapet.
+Det å bli forelder er en fantastisk opplevelse og vi unner alle å ta en velfortjent foreldrepermisjon. Vi betaler full lønn i foreldrepermisjon og tiden du er i permisjon vil ikke gå utover din ansiennitet i selskapet. For at 321 skal betale mellomlegget mellom utbetaling fra Nav og full lønn må du ha jobbet i 321 i minimum ett år før du går ut i foreldrepermisjon.
 
 ## Fag
 
