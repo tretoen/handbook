@@ -118,7 +118,7 @@ Kunnskap er det produktet vi selger og derfor er det svært viktig at alle som j
 En gang i måneden møtes hele gjengen for faglig samvær. Vi bruker hele dagen sammen og avslutter ofte med å gå ut å spise på en av Hamars fantastiske spisesteder.
 Hensikten med dagen er at vi møtes, blir godt kjent med hverandre og at vi lærer oss nye ting. En typisk 321-dag er delt i to hvor vi i første halvdel deler med hverandre i form av foredrag og andre halvdel er egenstudier.
 
-![Lonnsgraf](images/321-dag-okt-2020.jpeg)
+![321dag](images/321-dag-okt-2020.jpeg)
 
 ### Generell kompetanseutvikling
 
