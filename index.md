@@ -35,7 +35,7 @@ Teknas årlige statistikk oppdateres i desember og lønnsjustering i 321 utføre
 #### Gjeldende lønnsgraf 321
 ![Lonnsgraf](images/lonn-2020.png)
 Eksamensår i grafen er for en mastergrad, for en bachelor legges det til et år. 
-Så hvis du var ferdig med en mastergrad i 2015 og har jobbet i bransjen siden det, vil din lønn bli 750 00,- 
+Så hvis du var ferdig med en mastergrad i 2015 og har jobbet i bransjen siden det, vil din lønn bli 750 000,- 
 Tilsvarende for en bachelor vil være 720 000,- (Eksamensår justert til 2016)
 
 ### Ansattaksjer
