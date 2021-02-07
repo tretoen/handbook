@@ -25,9 +25,10 @@ Men vissheten om at en får en gode og rettferdige betingelser, bidrar til posit
 
 ### Lønn
 
-Hva folk tjener i 321 er ingen hemmelighet. Vi har gjort det enkelt og baserer oss på Teknas lønnstatistikk. 
+Hva folk tjener i 321 er ingen hemmelighet, vi har åpen lønn. Vi har også gjort det enkelt og baserer oss på Teknas lønnstatistikk. 
 Mer presist så baserer vi oss på statistikken for IKT-gjennomsnitt i privat sektor. 
-Dermed er hva du tjener en funksjon av hvilken utdannelse du har og hvor lenge du har jobbet i bransjen.
+Dermed er hva du tjener i utgangspunktet en funksjon av hvilken utdannelse du har og hvor lenge du har jobbet i bransjen. 
+Unntak vil kunne forekomme, men da må også begrunnelsen være åpen og oppfattes som rettferdig av felleskapet.
 
 
 Teknas årlige statistikk oppdateres i desember og lønnsjustering i 321 utføres da påfølgende januar måned.
