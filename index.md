@@ -40,9 +40,9 @@ Så hvis du var ferdig med en mastergrad i 2015 og har jobbet i bransjen siden d
 Tilsvarende for en bachelor vil være 720 000,- (Eksamensår justert til 2016)
 
 ### Rekrutteringsbonus
-321 ser hele tiden etter gode folk som vil være med å eie og jobbe i selskapet. Alle i selskapet har et medansvar for å markedsføre 321, og å tipse om gode kandidater. En ansatt får en rekrutteringsbonus på kr 30.000 ved tips om mulig kandidat, som ender opp med å bli ansatt og jobb ut prøvetiden.
+321 ser hele tiden etter gode folk som ønsker å bli en av oss. Alle har et medansvar for å markedsføre 321 og å tipse om gode kandidater. Vi gir 30 000,- i rekrutteringsbonus for tips som ender opp med fast ansettelse.
 
-Det utbetales ikke feriepenger på denne bonusen.
+Det utbetales ikke feriepenger på denne type bonus.
 
 
 ### Ansattaksjer
