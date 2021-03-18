@@ -39,6 +39,12 @@ Eksamensår i grafen er for en mastergrad, for en bachelor legges det til et år
 Så hvis du var ferdig med en mastergrad i 2015 og har jobbet i bransjen siden det, vil din lønn bli 750 000,- 
 Tilsvarende for en bachelor vil være 720 000,- (Eksamensår justert til 2016)
 
+### Rekrutteringsbonus
+321 ser hele tiden etter gode folk som ønsker å bli en av oss. Alle har et medansvar for å markedsføre 321 og å tipse om gode kandidater. Vi gir 30 000,- i rekrutteringsbonus for tips som ender opp med fast ansettelse.
+
+Det utbetales ikke feriepenger på denne type bonus.
+
+
 ### Ansattaksjer
 
 Vi har gründeraksjer eller såkalte A-aksjer og fordelingen per nå er slik:
@@ -117,6 +123,8 @@ Det er åpnet opp for at de ansatte kan samle sine (tidligere) pensjonsavtaler h
 Det å bli forelder er en fantastisk opplevelse og vi unner alle å ta en velfortjent foreldrepermisjon. 
 Tiden du er i permisjon vil ikke gå utover din ansiennitet i selskapet. 
 For at 321 skal betale mellomlegget mellom utbetaling fra Nav og full lønn må du ha jobbet i 321 i minimum ett år før du går ut i foreldrepermisjon.
+
+I forbindelse med fødsel har far, medmor eller den som bistår mor under graviditeten rett til to uker permisjon. Permisjonen skal tas ut innenfor et tidsrom på 2 uker før til 2 uker etter fødsel. Permisjonen kan deles opp, og det er helt i orden at man benytter for eksempel 1 til 2 dager knyttet til selve fødselen, gjenopptar arbeidet og så tar resten av permisjonen når mor og barn kommer hjem fra sykehuset. 321 utbetaler full lønn for disse 2 ukene.
 
 ## Fag
 
