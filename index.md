@@ -70,7 +70,6 @@ Vi jobber derfor nå med å opprette en egen aksjeklasse, såkalt B-aksje, som v
 
 ### Forsikringer
 
-
 #### Behandlingsforsikring
 
 Behandlingsforsikring som dekker følgende (med forbehold om endringer hos Gjensidige):
