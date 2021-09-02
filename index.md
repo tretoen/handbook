@@ -162,13 +162,13 @@ Eksempel på gode vurderinger:
 ### Internsystemer
 
 #### Slack
-Vi bruker Slack til kommunikasjon internt. Her er alle kanaler åpne, utenom eventuelle temaer som er taushetsbelagt.
+Vi bruker [Slack](https://slack.com/) til kommunikasjon internt. Her er alle kanaler åpne, utenom eventuelle temaer som er taushetsbelagt.
 
 #### CV Partner
-Alle ansatte har sine CVer i CV Partner og har ansvar for at CVen er oppdatert.
+Alle ansatte har sine CVer i [CV Partner](https://321.cvpartner.com) og har ansvar for at CVen er oppdatert.
 
 #### Tripletex
-Timeføring gjøres i Tripletex. Timeføring skal gjøres ukentlig, og være ferdig senest påfølgende mandag formiddag. Her finner hver ansatt oversikt over mertid, ferie og kan registerer eventuelle utlegg.
+Timeføring gjøres i [Tripletex](https://www.tripletex.no). Timeføring skal gjøres ukentlig, og være ferdig senest påfølgende mandag formiddag. Her finner hver ansatt oversikt over mertid, ferie og kan registerer eventuelle utlegg.
 Det føres 37,5 timer på en normal arbeidsuke, det utgjør 7,5 timer per dag fraregnet lunch. 
 
 Det er viktig for oss at alle ansatte har en god balanse mellom jobb og fritid. For noen betyr dette muligheten til å jobbe seg opp plusstid som kan avspaseres senere.
