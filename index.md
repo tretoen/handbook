@@ -58,12 +58,12 @@ Vi har gründeraksjer eller såkalte A-aksjer og fordelingen per nå er slik:
 - Lars Ingar 16,82%
 - Kim 16,82%
 - Anders 16,82%
-- Ole Hjalmar 11%
+- Ole Hjalmar 13,94%
 - Heidi 5%
-- Mari 10%
-- Morten 10%
+- Mari 11,46%
+- Morten 12,94%
 - Ola 4,72%
-- TRETOEN 8,82%
+- TRETOEN 1,48%
 
 Men vår intensjon er at alle ansatte som ønsker det skal kunne kjøpe aksjer i 321. På den måten kan alle få glede av gode resultater og selskapets verdiøkning. 
 Vi jobber derfor nå med ansattaksjeprogram og verdisetting av aksjer til ansatte. Vårt ansattaksjeprogram vil bli klart i løpet første kvartal i 2022.
