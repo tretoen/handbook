@@ -39,11 +39,11 @@ Unntak vil kunne forekomme, men da må også begrunnelsen være åpen og oppfatt
 
 Teknas årlige statistikk oppdateres i desember og lønnsjustering i 321 utføres da påfølgende januar måned.
 
-#### Gjeldende lønnsgraf 321
-![Lonnsgraf](images/lonn-2020.png)
+#### Gjeldende lønnsgraf 321 (2022)
+![Lonnsgraf](images/lonn-2021.png)
 Eksamensår i grafen er for en mastergrad, for en bachelor legges det til et år. 
-Så hvis du var ferdig med en mastergrad i 2015 og har jobbet i bransjen siden det, vil din lønn bli 750 000,- 
-Tilsvarende for en bachelor vil være 720 000,- (Eksamensår justert til 2016)
+Så hvis du var ferdig med en mastergrad i 2015 og har jobbet i bransjen siden det, vil din lønn bli 820 000,- 
+Tilsvarende for en bachelor vil være 790 000,- (Eksamensår justert til 2016)
 
 ### Rekrutteringsbonus
 321 ser hele tiden etter gode folk som ønsker å bli en av oss. Alle har et medansvar for å markedsføre 321 og å tipse om gode kandidater. Vi gir 30 000,- i rekrutteringsbonus for tips som ender opp med fast ansettelse.
