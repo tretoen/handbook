@@ -45,15 +45,22 @@ Eksamensår i grafen er for en mastergrad, for en bachelor legges det til et år
 Så hvis du var ferdig med en mastergrad i 2015 og har jobbet i bransjen siden det, vil din lønn bli 820 000,- 
 Tilsvarende for en bachelor vil være 790 000,- (Eksamensår justert til 2016)
 
+
+### Bonus
+Alle i 321 bidrar på hver sin måte mot felles mål, overskuddet skal derfor også deles. 20% av årlig overskudd deles likt fordelt på alle som har bidratt, uavhengig av ansiennitet og eierandeler.
+
+
 ### Rekrutteringsbonus
 321 ser hele tiden etter gode folk som ønsker å bli en av oss. Alle har et medansvar for å markedsføre 321 og å tipse om gode kandidater. Vi gir 30 000,- i rekrutteringsbonus for tips som ender opp med fast ansettelse.
 
 Det utbetales ikke feriepenger på denne type bonus.
 
 
-### Ansattaksjer
+### Medeierskap
 
-Vi har gründeraksjer eller såkalte A-aksjer og fordelingen per nå er slik:
+Hos 321 eier vi aksjene selv, alle skal få glede av gode resultater og selskapets utvikling. Alle nye ansatte får tilbud om å kjøpe seg inn etter endt prøvetid. Alle eier samme type aksje, med like rettighter i Generalforsamling og til utbytte.
+
+Fordelingen per nå er slik:
 
 - Lars Ingar 16,82%
 - Kim 16,82%
@@ -64,9 +71,6 @@ Vi har gründeraksjer eller såkalte A-aksjer og fordelingen per nå er slik:
 - Morten 12,94%
 - Ola 4,72%
 - TRETOEN 1,48%
-
-Men vår intensjon er at alle ansatte som ønsker det skal kunne kjøpe aksjer i 321. På den måten kan alle få glede av gode resultater og selskapets verdiøkning. 
-Vi jobber derfor nå med ansattaksjeprogram og verdisetting av aksjer til ansatte. Vårt ansattaksjeprogram vil bli klart i løpet første kvartal i 2022.
 
 
 ### Forsikringer
