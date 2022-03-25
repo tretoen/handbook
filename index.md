@@ -32,7 +32,7 @@ Men vissheten om at en får en gode og rettferdige betingelser, bidrar til posit
 ### Lønn
 
 Hva folk tjener i 321 er ingen hemmelighet, vi har åpen lønn. Vi har også gjort det enkelt og baserer oss på Teknas lønnstatistikk. 
-Mer presist så baserer vi oss på statistikken for IKT-gjennomsnitt i privat sektor. 
+Mer presist så tar vi utgangspunkt i statistikken for IKT(data/IT) i privat sektor og tallene for øvre kvartil. 
 Dermed er hva du tjener i utgangspunktet en funksjon av hvilken utdannelse du har og hvor lenge du har jobbet i bransjen. 
 Unntak vil kunne forekomme, men da må også begrunnelsen være åpen og oppfattes som rettferdig av felleskapet.
 
@@ -40,10 +40,10 @@ Unntak vil kunne forekomme, men da må også begrunnelsen være åpen og oppfatt
 Teknas årlige statistikk oppdateres i desember og lønnsjustering i 321 utføres da påfølgende januar måned.
 
 #### Gjeldende lønnsgraf 321 (2022)
-![Lonnsgraf](images/lonn-2021.png)
+![Lonnsgraf](images/lonn-2021-2.png)
 Eksamensår i grafen er for en mastergrad, for en bachelor legges det til et år. 
-Så hvis du var ferdig med en mastergrad i 2015 og har jobbet i bransjen siden det, vil din lønn bli 820 000,- 
-Tilsvarende for en bachelor vil være 790 000,- (Eksamensår justert til 2016)
+Så hvis du var ferdig med en mastergrad i 2015 og har jobbet i bransjen siden det, vil din lønn bli 900 000,- 
+Tilsvarende for en bachelor vil være 860 000,- (Eksamensår justert til 2016)
 
 
 ### Bonus
