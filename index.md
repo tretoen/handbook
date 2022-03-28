@@ -118,6 +118,8 @@ Den tiden vi er på jobb brukes i hovedsak hos kunde eller på kompetanseheving.
 - Fysioterapi
 - Legetime
 
+Beskrivelse av timekoder finner du [her](#timekoder)
+
 ### Ferie/fridager
 
 I tillegg til de vanlige 5 uker med ferie har vi fri julaften og nyttårsaften.
@@ -181,4 +183,10 @@ Alle i 321 står fritt til dette så lenge arbeidstid er innenfor arbeidsmiljøl
 
 For å sikre god balanse mellom jobb og fritid ønsker vi ikke å jobbe overtid, men unntaksvis kan det være kundebehov som krever det. 
 Overtid skal alltid avtales i forkant, og gir et overtidstillegg på 40%.
+
+##### Timekoder
+Det er ikke alltid like enkelt å vite hvordan en fører tiden riktig på alle internkoder. Her beskriver vi derfor noen av kodene i mer detalj.
+
+* Sjukt barn - Her følger vi retningslinjene fra NAV angående bruk av [omsorgspenger](https://www.nav.no/familie/sykdom-i-familien/nb/omsorgspenger)
+
 
