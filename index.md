@@ -58,20 +58,9 @@ Det utbetales ikke feriepenger på denne type bonus.
 
 ### Medeierskap
 
-Hos 321 eier vi aksjene selv, alle skal få glede av gode resultater og selskapets utvikling. Alle nye ansatte får tilbud om å kjøpe seg inn etter endt prøvetid. Alle eier samme type aksje, med like rettighter i Generalforsamling og til utbytte.
-
-Fordelingen per nå er slik:
-
-- Lars Ingar 16,82%
-- Kim 16,82%
-- Anders 16,82%
-- Ole Hjalmar 13,94%
-- Heidi 5%
-- Mari 11,46%
-- Morten 12,94%
-- Ola 4,72%
-- TRETOEN 1,48%
-
+Hos 321 eier vi aksjene selv, alle skal kunne få glede av gode resultater og selskapets utvikling. 
+Alle nye ansatte får derfor tilbud om å kjøpe seg inn etter endt prøvetid. 
+Alle eier samme type aksje, med like rettighter i Generalforsamling og til utbytte.
 
 ### Forsikringer
 
