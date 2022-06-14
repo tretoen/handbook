@@ -64,6 +64,11 @@ Alle eier samme type aksje, med like rettighter i Generalforsamling og til utbyt
 
 ### Forsikringer
 
+#### Reiseforsikring
+321 har reiseforsikring for alle ansatte på jobbreise i hele verden med inntill 70 dagers varighet.
+
+321 har også reiseforsikring for alle ansatte, ektefelle/samboer og barn inntil 20år på ferie og fritidsreiser i hele verden inntill 70 dagers varighet.
+
 #### Behandlingsforsikring
 
 Behandlingsforsikring som dekker følgende (med forbehold om endringer hos Gjensidige):
@@ -82,7 +87,7 @@ Behandlingsforsikring som dekker følgende (med forbehold om endringer hos Gjens
 
 #### Sykelønn
 
-Vi har forsikret alle våre arbeidstagere med sykeforsikring. Denne sikrer at vi ved eventuell sykemelding utover 14 dager får utbetalt differansen mellom hva NAV utbetaler og hva vi faktisk har i årslønn. NAV utbetaler 6G (599.000).
+Vi har forsikret alle våre arbeidstagere med sykeforsikring. Denne sikrer at vi ved eventuell sykemelding utover 16 dager får utbetalt differansen mellom hva NAV utbetaler og hva vi faktisk har i årslønn.
 
 Men dette betyr noe viktig: alle ansatte må fylle ut Helseerklæring innen fristen for å få denne forsikringen. Dette følges opp av 321 som en del av onboarding i tillegg til den ansatte selv.
 
