@@ -118,7 +118,7 @@ Den tiden vi er på jobb brukes i hovedsak hos kunde eller på kompetanseheving.
 - Fysioterapi
 - Legetime
 
-Beskrivelse av timekoder finner du [her](#timekoder)
+Beskrivelse av alle interne timekoder finner du under avsnitt [timekoder](#timekoder)
 
 ### Ferie/fridager
 
@@ -207,4 +207,4 @@ Det er ikke alltid like enkelt å vite hvordan en fører tiden riktig på alle i
 * Strandgata 31 - Oppgaver knyttet kontoret vårt i Strandgata 31
 * Strategi - Oppgaver knyttet til strategi
 * Styremøte - Styremøter for styremedlemmer som også jobber i 321
-* Velferdspermisjon - Se betalt fravær
+* Velferdspermisjon - Se [betalt fravær](#betalt-fravær)
