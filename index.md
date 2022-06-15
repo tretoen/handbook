@@ -47,7 +47,9 @@ Tilsvarende for en bachelor vil være 860 000,- (Eksamensår justert til 2016)
 
 
 ### Bonus
-Alle i 321 bidrar på hver sin måte mot felles mål, overskuddet skal derfor også deles. 20% av årlig overskudd deles likt fordelt på alle som har bidratt, uavhengig av ansiennitet og eierandeler.
+Alle i 321 bidrar på hver sin måte mot felles mål, overskuddet skal derfor også deles. 20% av årlig overskudd deles likt fordelt på alle som har bidratt, uavhengig av ansiennitet og eierandeler. De som har vært ansatt bare deler av året får sin andel i henhold til antall måneder som ansatt.
+
+Bonus på 20% er inklusiv arbeidsgiveravgift (som blir trukket i fra) og feriepenger (som blir utbetalt året etter).
 
 
 ### Rekrutteringsbonus
