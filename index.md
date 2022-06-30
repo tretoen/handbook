@@ -1,6 +1,6 @@
 ---
 Title: Personalhåndbok
-Template: standard
+Template: handbook
 ---
 
 
