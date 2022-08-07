@@ -112,6 +112,8 @@ Den tiden vi er på jobb brukes i hovedsak hos kunde eller på kompetanseheving.
 - Tannlege
 - Fysioterapi
 - Legetime
+- Flytting
+- Tilvenning i barnehage og første skoledag
 
 Beskrivelse av alle interne timekoder finner du under avsnitt [timekoder](#timekoder)
 
@@ -202,4 +204,5 @@ Det er ikke alltid like enkelt å vite hvordan en fører tiden riktig på alle i
 * Strandgata 31 - Oppgaver knyttet kontoret vårt i Strandgata 31
 * Strategi - Oppgaver knyttet til strategi
 * Styremøte - Styremøter for styremedlemmer som også jobber i 321
+* Tilvenning barnehage/skole - En kan føre inntil tre dager brukt på tilvenning i barnehage og skoleoppstart for egne barn
 * Velferdspermisjon - Se [betalt fravær](#betalt-fravær)
