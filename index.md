@@ -90,9 +90,7 @@ Behandlingsforsikring som dekker følgende (med forbehold om endringer hos Gjens
 
 Vi har forsikret alle våre arbeidstagere med sykeforsikring. Denne sikrer at vi ved eventuell sykemelding utover 16 dager får utbetalt differansen mellom hva NAV utbetaler og hva vi faktisk har i årslønn.
 
-Men dette betyr noe viktig: alle ansatte må fylle ut Helseerklæring innen fristen for å få denne forsikringen. Dette følges opp av 321 som en del av onboarding i tillegg til den ansatte selv.
-
-Ved eventuell sykdom utbetaler 321 lønn og får refusjon fra NAV og eventuelt forsikring. Dekning av sykepenger mellom NAV (6G) og faktisk lønn dekkes kun dersom arbeidstaker er dekket av forssikringsselsakpet.
+Ved eventuell sykdom utbetaler 321 lønn og får refusjon fra NAV og eventuelt forsikring.
 
 #### Yrkesskade
 
