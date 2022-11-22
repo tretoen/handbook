@@ -152,7 +152,9 @@ Vi er alle forskjellige og har forskjellige preferanser og måter å lære på. 
 Vi i 321 er ikke veldig formelle, og vil hele tiden jobbe for å ha så få systemer og rutiner som mulig.
 
 ### Utstyr
-Vi har stor tro på hver ansatt sin vurderingsevne. Om du mener det er til det beste for 321 med et headset, ny pc, eller en lisens, så stoler vi på at du tar er riktig valg. Det er ingen beløpsgrenser for kjøp av pc/mobil, men vi forventer også her at du vurderer hva som er det beste for selskapet. Sjekk gjerne hva de andre bruker om du er i tvil. Du står naturligvis fritt til å velge Windows, Linux, OS X, eller (om de er helt cutting edge) macOS.
+Vi har stor tro på hver ansatt sin vurderingsevne. Om du mener det er til det beste for 321 med et headset, ny pc, eller en lisens, så stoler vi på at du tar er riktig valg. 
+Det er ingen beløpsgrenser for kjøp av pc/mobil, men vi forventer også her at du vurderer hva som er det beste for selskapet. Sjekk gjerne hva de andre bruker om du er i tvil. 
+Du står naturligvis fritt til å velge hardware og operativsystem som passer dine preferanser og arbeidsoppgaver.
 
 Alle kjøp registreres av den anatte i felles oversikt som alle har tilgang til. Utstyr og lisenser betales av 321.
 
