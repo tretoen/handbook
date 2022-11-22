@@ -135,6 +135,10 @@ Tiden du er i permisjon vil ikke gå utover din ansiennitet i selskapet eller ut
 
 I forbindelse med fødsel har far, medmor eller den som bistår mor under graviditeten rett til to uker permisjon. Permisjonen skal tas ut innenfor et tidsrom på 2 uker før til 2 uker etter fødsel. Permisjonen kan deles opp, og det er helt i orden at man benytter for eksempel 1 til 2 dager knyttet til selve fødselen, gjenopptar arbeidet og så tar resten av permisjonen når mor og barn kommer hjem fra sykehuset. 321 utbetaler full lønn for disse 2 ukene.
 
+### Influensavaksine
+For de som ønsker det, kan influensavaksine utgiftsføres på vanlig måte som et privat utlegg i Tripletex. 
+Flere apoteker tilbyr en slik vaksine og en bestiller time selv.
+
 ## Fag
 
 Kunnskap er det produktet vi selger og derfor er det svært viktig at alle som jobber hos oss er oppdatert. Som selskap trenger vi å vite hva som finnes der ute; hva er trender, hva trenger kundene våre og hva er vikig for oss. Det er viktig at du har en egen motivasjon til å lære deg nye ting selv og setter av tid til det, men vi legger også tilrette for at man kan få prioritert dette i en hektisk hverdag.
