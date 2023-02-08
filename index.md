@@ -40,7 +40,7 @@ Unntak vil kunne forekomme, men da må også begrunnelsen være åpen og oppfatt
 Teknas årlige statistikk oppdateres i desember og lønnsjustering i 321 utføres da påfølgende januar måned.
 
 #### Gjeldende lønnsgraf 321 (2023)
-![Lonnsgraf](images/lonn-2021-2.png)
+![Lonnsgraf](images/lonn-2023.png)
 
 Eksamensår i grafen er for en mastergrad, for en bachelor legges det til et år. 
 Så hvis du var ferdig med en mastergrad i 2015 og har jobbet i bransjen siden det, vil din lønn bli 950 000,- 
