@@ -168,6 +168,7 @@ Eksempel på gode vurderinger:
 - Mari sin helt nydelige 49" skjerm.
 - Morten sin Macbook Pro 16".
 - Kim sin Lenovo
+- Ordentlig tastatur og mus til hjemmekontoret
 
 ### Internsystemer
 
