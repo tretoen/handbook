@@ -37,7 +37,7 @@ Dermed er hva du tjener i utgangspunktet en funksjon av hvilken utdannelse du ha
 Unntak vil kunne forekomme, men da må også begrunnelsen være åpen og oppfattes som rettferdig av felleskapet.
 
 
-Teknas årlige statistikk oppdateres i desember og lønnsjustering i 321 utføres da påfølgende januar måned.
+Teknas årlige statistikk oppdateres i desember og lønnsjustering i 321 utføres da påfølgende januar måned. Lønn justeres ikke om du er i oppsigelsestid.
 
 #### Gjeldende lønnsgraf 321 (2023)
 ![Lonnsgraf](images/lonn-2023.png)
