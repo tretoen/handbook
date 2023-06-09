@@ -104,6 +104,10 @@ Ved eventuell sykdom utbetaler 321 lønn og får refusjon fra NAV og eventuelt f
 
 Bredbånd dekkes med inntil 600kr per måned. Utlegg skal registreres per måned eller kvartal, og summen som skal refunderes er 600kr per måned, selv om faktura eventuelt er høyere. Da sparer selskapet tid på å gå gjennom når hver ansatt når grensen på 600kr * 12.
 
+### Sponsing av noe du brenner for
+
+Selskapet sponser inntill 5000kr per ansatt årlig til noe du brenner for. Du bestemmer selv hva du vil at 321 skal sponse, eksempler til nå er Idrettslag, fotballag og kor. Del med de andre hva du ønsker å sponse på #sponsing.
+
 
 ### Betalt fravær
 
@@ -136,8 +140,15 @@ Tiden du er i permisjon vil ikke gå utover din ansiennitet i selskapet eller ut
 I forbindelse med fødsel har far, medmor eller den som bistår mor under graviditeten rett til to uker permisjon. Permisjonen skal tas ut innenfor et tidsrom på 2 uker før til 2 uker etter fødsel. Permisjonen kan deles opp, og det er helt i orden at man benytter for eksempel 1 til 2 dager knyttet til selve fødselen, gjenopptar arbeidet og så tar resten av permisjonen når mor og barn kommer hjem fra sykehuset. 321 utbetaler full lønn for disse 2 ukene.
 
 ### Influensavaksine
+
 For de som ønsker det, kan influensavaksine utgiftsføres på vanlig måte som et privat utlegg i Tripletex. 
 Flere apoteker tilbyr en slik vaksine og en bestiller time selv.
+
+### Salg av brukt utstyr
+
+Utstyr som leveres tilbake til 321 vurderes først til gjenbruk. Er det ikke behov selges utstyres til ansatte for en pris satt av regnskapsfører, er utstyret over 3år er prisen 500kr. Er det flere som ønsker å kjøpe avgjøres dette ved loddtrekning. 
+
+Ansatte som slutter leverer tilbake utstyret til 321.
 
 ## Fag
 
