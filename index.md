@@ -102,7 +102,7 @@ Ved eventuell sykdom utbetaler 321 lønn og får refusjon fra NAV og eventuelt f
 
 ### Utlegg bredbånd
 
-Bredbånd dekkes med inntil 600kr per måned. Utlegg skal registreres per måned eller kvartal, og summen som skal refunderes er 600kr per måned, selv om faktura eventuelt er høyere. Da sparer selskapet tid på å gå gjennom når hver ansatt når grensen på 600kr * 12.
+Bredbånd dekkes med inntil 750,- per måned. (600,- frem til og med juni 2023) Utlegg skal registreres per måned eller kvartal i Tripletex.
 
 ### Sponsing av noe du brenner for
 
@@ -189,7 +189,9 @@ Vi bruker [Slack](https://slack.com/) til kommunikasjon internt. Her er alle kan
 Alle ansatte har sine CVer i [CV Partner](https://321.cvpartner.com) og har ansvar for at CVen er oppdatert.
 
 #### Tripletex
-Timeføring gjøres i [Tripletex](https://www.tripletex.no). Timeføring skal gjøres ukentlig, og være ferdig senest påfølgende mandag formiddag. Her finner hver ansatt oversikt over mertid, ferie og kan registerer eventuelle utlegg.
+Time- og utleggsføring gjøres i [Tripletex](https://www.tripletex.no). 
+
+Timeføring skal gjøres ukentlig, og være ferdig senest påfølgende mandag formiddag. Her finner hver ansatt oversikt over mertid, ferie og kan registerer eventuelle utlegg.
 Det føres 37,5 timer på en normal arbeidsuke, det utgjør 7,5 timer per dag fraregnet lunch. 
 
 Det er viktig for oss at alle ansatte har en god balanse mellom jobb og fritid. For noen betyr dette muligheten til å jobbe seg opp plusstid som kan avspaseres senere.
