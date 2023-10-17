@@ -4,12 +4,6 @@ Template: handbook
 ---
 
 
-# Personalhåndbok for 321
-Denne personalhåndboken prøver å besvare spørsmål en kan ha som ansatt i 321. Hvis noe er uklart eller mangelfullt spør gjerne på Slack.
-
-Hvis du har innspill til endringer til denne håndboken så kan du lage en pullrequest [her](https://github.com/tretoen/handbook).
-
-
 ## Verdier
 "Vi knytter modige personer sammen og skaper stolte øyeblikk". Hva mener vi egentlig med det? Vi mener de som startet 321 var modige som så muligheten, tok sats og hoppet. Like modige har Mari, Ole Fredrik, Ole Hjalmar og Morten vært. Alle snakker varmt om hvor fint de hadde det der de kom fra, men allikevel var de modige og kom til 321 for å bygge et nytt selskap med base på Hamar.
 
