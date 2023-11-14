@@ -213,7 +213,7 @@ Det er ikke alltid like enkelt å vite hvordan en fører tiden riktig på alle i
 * Sjukdom egenmelding - Vi har alle 12 egenmeldingsdager som kan brukes enkeltvis eller sammenhengende inntill 3 dager. Det er også lov å bruke enkelttimer. Du trenger ikke legeerklæring. Om disse dagene er brukt opp må du ha sjukemelding fra lege.
 * Sjukemelding inntil 16 dager - Gjelder sjukemelding fra lege inntil 16 dager. 321 utbetaler lønn som normalt.
 * Sjukemelding over 16 dager - Gjelder sjukemelding fra lege over 16 dager. 321 utbetaler lønn som normalt, men det offentlige dekker deler av kostnaden.
-* Sjukt barn - Her følger vi retningslinjene fra NAV angående bruk av [omsorgspenger](https://www.nav.no/familie/sykdom-i-familien/nb/omsorgspenger)
+* Sjukt barn - Her følger vi retningslinjene fra NAV angående bruk av [omsorgspenger](https://www.nav.no/omsorgspenger)
 * Strandgata 31 - Oppgaver knyttet kontoret vårt i Strandgata 31
 * Strategi - Oppgaver knyttet til strategi
 * Styremøte - Styremøter for styremedlemmer som også jobber i 321
