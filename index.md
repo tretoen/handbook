@@ -159,6 +159,9 @@ Hensikten med dagen er at vi møtes, blir godt kjent med hverandre og at vi lær
 
 Vi er alle forskjellige og har forskjellige preferanser og måter å lære på. Noen foretrekker å lese en bok og teste ut ting selv, andre ønsker å følge et kurs eller reise på konferanser. Vi har tillit til at du som ansatt tar avgjørelser som er til det beste for selskapet og derfor har vi ikke et bestemt budsjett som styrer hvor mye eller hva du kan dra på. Er det akkurat den konferansen i London som du mener er mest riktig for deg og 321 så drar du dit.
 
+Vi heier på all form for kompetansebygging som gjør oss til gladere fagfolk, ansatte og kollegaer. For ikke å snakke om mer verdifulle konsulenter for våre kunder. Det er ryddig å informere både kunde og 321 i forkant av større aktiviteter.
+Kompetansetid på eget initiativ føres på timekode [Kompetanseheving](#timekoder) med en kommentar om hva en har gjort.
+
 ## Rutiner
 Vi i 321 er ikke veldig formelle, og vil hele tiden jobbe for å ha så få systemer og rutiner som mulig.
 
