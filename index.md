@@ -33,7 +33,7 @@ Unntak vil kunne forekomme, men da må også begrunnelsen være åpen og oppfatt
 
 Teknas årlige statistikk oppdateres i desember og lønnsjustering i 321 utføres da påfølgende januar måned. Lønn justeres ikke om du er i oppsigelsestid.
 
-#### Gjeldende lønnsgraf 321 (2023)
+#### Gjeldende lønnsgraf 321 (2024)
 ![Lonnsgraf](images/lonn-2023.png)
 
 Eksamensår i grafen er for en mastergrad, for en bachelor legges det til et år. 
