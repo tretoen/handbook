@@ -55,4 +55,4 @@ Det er ikke alltid like enkelt å vite hvordan en fører tiden riktig på alle i
 - __Strategi__ - Oppgaver knyttet til strategi
 - __Styremøte__ - Styremøter for styremedlemmer som også jobber i 321
 - __Tilvenning barnehage/skole__ - En kan føre inntil tre dager brukt på tilvenning i barnehage og skolestart for egne barn
-- __Velferdspermisjon__ - Se betalt fravær
+- __Velferdspermisjon__ - Når du skal til legen, tannlegen eller fysikalsk behandling
