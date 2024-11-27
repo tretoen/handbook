@@ -38,7 +38,7 @@ Det er ikke alltid like enkelt å vite hvordan en fører tiden riktig på alle i
 - __Administrasjon__ - Ledelse / administrasjon
 - __Arrangementer__ - 321-frokost og lignende arrangementer arrangert av 321, inkl forberedelse/etterarbeid
 - __Ferie__ - Ferie avklares med kunde og føres på denne koden med 7,5t per fulle arbeidsdag. Informasjon om ferie og fri deles internt på `#outofoffice` på Slack.
-- __Flyttedag__ - Hvis du skal flytte kan du føre en dag på denne koden (7,5t)
+- __Flyttedag__ - Hvis du skal flytte kan du føre én dag på denne koden (7,5t)
 - __HR__ - Arbeid med HR for de som har tatt disse rollene
 - __Internmøte__ - Interne møter i 321
 - __Kompetanseheving__ - Egen kompetanseheving inkl kurs/konferanser
@@ -51,7 +51,7 @@ Det er ikke alltid like enkelt å vite hvordan en fører tiden riktig på alle i
 - __Sjukemelding inntil 16 dager__ - Gjelder sjukemelding fra lege inntil 16 dager. 321 utbetaler lønn som normalt.
 - __Sjukemelding over 16 dager__ - Gjelder sjukemelding fra lege over 16 dager. 321 utbetaler lønn som normalt, men det offentlige dekker deler av kostnaden.
 - __Sjukt barn__ - Her følger vi retningslinjene fra NAV angående bruk av [omsorgspenger](https://www.nav.no/omsorgspenger)
-- __Strandgata 31__ - Oppgaver knyttet kontoret vårt i Strandgata 31
+- __Strandgata 31__ - Oppgaver knyttet til kontoret vårt i Strandgata 31
 - __Strategi__ - Oppgaver knyttet til strategi
 - __Styremøte__ - Styremøter for styremedlemmer som også jobber i 321
 - __Tilvenning barnehage/skole__ - En kan føre inntil tre dager brukt på tilvenning i barnehage og skolestart for egne barn
