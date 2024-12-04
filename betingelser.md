@@ -25,3 +25,9 @@ Vi ser hele tiden etter nye flinke folk som ønsker å bli en av oss. Alle 321er
 ## Medeierskap
 
 Hos 321 eier vi aksjene selv. Alle 321ere skal kunne få gleden av gode resultater og selskapets utvikling. Nye ansatte får derfor tilbud om å kjøpe seg inn etter endt prøvetid. Vi eier alle samme type aksje, med like rettigheter i Generalforsamling og til utbytte.
+
+## Sykelønn
+
+Alle våre arbeidstagere er forsikret med sykeforsikring. Dette sikrer at vi ved eventuell sykemelding utover 16 dager får utbetalt differansen mellom hva NAV utbetaler og hva vi faktisk har i årslønn.
+Ved eventuell sykdom utbetaler 321 lønn og får refusjon fra NAV og eventuelt forsikring.
+
