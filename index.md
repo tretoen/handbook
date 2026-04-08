@@ -100,7 +100,7 @@ Ved eventuell sykdom utbetaler 321 lønn og får refusjon fra NAV og eventuelt f
 
 ### Utlegg bredbånd
 
-Bredbånd dekkes med inntil 829,- per måned. (750,- frem til og med april 2024) Utlegg skal registreres per måned eller kvartal i Tripletex.
+Bredbånd dekkes med inntil 919,- per måned. (829,- frem til og med april 2026) Utlegg skal registreres per måned eller kvartal i Tripletex.
 
 ### Sponsing av noe du brenner for
 
