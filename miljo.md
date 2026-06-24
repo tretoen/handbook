@@ -8,7 +8,7 @@ Vi jobber systematisk for å ta hensyn til miljøet og er bevisste på hvordan d
 
 ## Med- og uten fyrtårn
 
-I 2023 ble det besluttet at 321 skal bli Miljøfyrtårnbedrift.
+321 er Miljøfyrtårn-sertifisert (siden 2023).
 
 Vi har i fellesskap valgt følgende bærekraftsmål som hovedfokus for 321:
 Men har fritt pakket litt ekstra inn i de og tilpasset de til noe vi kan etterleve.
@@ -26,6 +26,8 @@ Men har fritt pakket litt ekstra inn i de og tilpasset de til noe vi kan etterle
 - Vi jobber for å ansette flere kvinner og oppfordrer deg som er kvinne til å søke jobb hos oss.
 - Vi har allerede en kvinne i styret og har satt oss som mål å få flere.
 - Gravid!? Gratulerer! Vi ønsker å legge til rette for at alle 321ere skal kunne bygge en familie og ta vare på sine.
+
+Er du spesielt interessert i vår miljøstatistikk – [trykk her og ta en kikk](https://portal.miljofyrtarn.no/organizations/34164/data/publicStatistics)
 
 ## Oss imellom
 
