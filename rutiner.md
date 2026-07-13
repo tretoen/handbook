@@ -42,6 +42,7 @@ Det er ikke alltid like enkelt å vite hvordan en fører tiden riktig på alle i
 - __HR__ - Arbeid med HR for de som har tatt disse rollene
 - __Internmøte__ - Interne møter i 321
 - __Kompetanseheving__ - Egen kompetanseheving inkl kurs/konferanser
+- __Kompetanseheving 321__ - Kompetanseaktiviteter som initieres av 321 med tanke på salg og kunder
 - __Markedsføring__ - Arbeid med markedsføring, som f.eks tekster til 321.no, sosiale medier, annonsering, etc.
 - __Nettside__ - Arbeid med vår egen 321.no
 - __Oppsett og vedlikehold intern software__ - Interne oppgaver med software/oppsett
