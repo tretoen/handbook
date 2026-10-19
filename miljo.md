@@ -4,7 +4,7 @@
 
 For å få til dette skal vi være bevisst konsekvensene av våre aktiviteter både internt og utad. Vi skal gjøre vårt for å redusere CO2-utslipp, stille miljøkrav til produkter og leverandører, følge gjeldende myndighetskrav og skape bevissthet til miljøtiltak blant 321ere og kunder.
 
-Vi jobber systematisk for å ta hensyn til miljøet og er bevisste på hvordan driften av 321 påvirker dette. Alle 321ere har full tilgang til alle forhold rundt bærekraft og miljø. Samtlige 321ere oppfordres til å involvere seg i arbeidet og å komme med ønsker, forslag og innspill på miljøarbeidet - dette gjøres i Slack-kanalen `#bærekraft`.
+Vi jobber systematisk for å ta hensyn til miljøet og er bevisste på hvordan driften av 321 påvirker dette. Alle 321ere har full tilgang til alle forhold rundt bærekraft og miljø. Samtlige 321ere har ansvar for å involvere seg og å komme med ønsker, forslag og innspill på miljøarbeidet - dette gjøres i Slack-kanalen `#bærekraft`.
 
 ## Med- og uten fyrtårn
 
